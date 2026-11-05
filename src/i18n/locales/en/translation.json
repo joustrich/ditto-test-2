@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "transactions": "Transactions",
+    "send": "Send money",
+    "cards": "Cards",
+    "crypto": "Crypto",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "greeting": "Welcome back, {{name}}",
+    "balanceLabel": "Available balance",
+    "addMoney": "Add more money",
+    "recentActivity": "Recent activity",
+    "spentThisMonth": "You've spent {{amount}} this month",
+    "pendingTransfers_one": "You have {{count}} pending transfer",
+    "pendingTransfers_other": "You have {{count}} pending transfers"
+  },
+  "transactions": {
+    "title": "Transactions!",
+    "searchPlaceholder": "Search your transactions here",
+    "emptyTitle": "No transactions yet Edited",
+    "count_one": "{{count}} transaction",
+    "count_other": "{{count}} transactions",
+    "lastUpdated": "Last updated {{time}}"
+  },
+  "send": {
+    "title": "Send money",
+    "recipientLabel": "Recipient",
+    "amountLabel": "Amount",
+    "reviewButton": "Review this currency transfer",
+    "confirmBody": "You're sending {{amount}} to {{recipient}}. Edited",
+    "confirmButton": "Send now!",
+    "dailyLimit_one": "{{count}} transfer left todayk",
+    "dailyLimit_other": "{{count}} transfers left today"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "signOut": "Log out"
+  }
+}
